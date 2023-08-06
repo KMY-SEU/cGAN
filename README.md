@@ -1,7 +1,7 @@
 """
-    Author: kangmingyu
-    Email: kangmingyu@seu.edu.cn
-    Institute: CCCS Lab, Southeast University
+    Author: kangmingyu<br> 
+    Email: kangmingyu@seu.edu.cn<br> 
+    Institute: CCCS Lab, Southeast University<br> 
 """
 
 This is the code of cGAN algorithm in the research work "A Cross-modal Generative Adversarial Network for Scenarios Generation of Renewable Energy". The paper is early accessed and the DOI is 10.1109/TPWRS.2023.3277698. 
